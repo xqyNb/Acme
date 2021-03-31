@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{$LANG}">
+<head>
+    <meta charset="UTF-8">
+    <title>Acme</title>
+</head>
+<body>
+
+<h1>{$currentLanguage} : {$lang}</h1>
+{include:lang}
+<h1>{lang:1}</h1>
+<h2>{lang:2}</h2>
+<div style="color:red;">{lang:4}{$VERSION}</div>
+
+<div>{lang:3}</div>
+<a href="/Index/login">{lang:5}</a>
+
+<h2>{lang:6}{$userName}</h2>
+
+{$urlTpl}
+
+
+</body>
+</html>

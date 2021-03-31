@@ -1,0 +1,35 @@
+2021-01-21 09:19:34 : {"type":"Acme","data":"Acme\u6846\u67b6\u5df2\u542f\u52a8"}
+2021-01-21 09:19:49 : {"type":"Acme","data":"Acme\u6846\u67b6\u5df2\u542f\u52a8"}
+2021-01-21 09:28:07 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 09:48:50 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:01:26 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:27:01 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:29:18 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:46:13 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:46:27 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:46:41 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 10:49:29 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 11:02:04 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 11:02:32 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 11:12:22 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 11:35:00 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 11:47:41 : {"level":"INFO","data":{"Acme":"start","version":"V1.0.0","authoer":"Billion","phpVersion":"8.0.0","swooleVersion":"4.5.10","env":"produce","listenAddress":"0.0.0.0","listenPort":8888}}
+2021-01-21 11:48:26 : {"level":"INFO","data":{"Acme":"start","version":"V1.0.0","authoer":"Billion","phpVersion":"8.0.0","swooleVersion":"4.5.10","env":"produce","listenAddress":"0.0.0.0","listenPort":8888}}
+2021-01-21 11:49:19 : {"level":"INFO","data":{"Acme":"start","version":"V1.0.0","authoer":"Billion","phpVersion":"8.0.0","swooleVersion":"4.5.10","env":"produce","listenAddress":"0.0.0.0","listenPort":8888}}
+2021-01-21 11:49:19 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 11:54:00 : {"level":"INFO","data":{"Acme":"start","version":"V1.0.0","authoer":"Billion","phpVersion":"8.0.0","swooleVersion":"4.5.10","env":"produce","listenAddress":"0.0.0.0","listenPort":8888}}
+2021-01-21 11:54:00 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 12:02:52 : {"level":"INFO","data":{"Acme":"start","version":"V1.0.0","authoer":"Billion","phpVersion":"8.0.0","swooleVersion":"4.5.10","env":"produce","listenAddress":"0.0.0.0","listenPort":8888}}
+2021-01-21 12:02:52 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 13:55:00 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 14:03:18 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 14:31:45 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 14:41:19 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 14:47:28 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 14:49:38 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 14:57:53 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 15:08:19 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 15:14:01 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 15:22:50 : {"level":"INFO","data":"Acme is start!"}
+2021-01-21 15:24:37 : {"level":"INFO","data":{"Acme":"start","version":"V1.0.0","authoer":"Billion","phpVersion":"8.0.0","swooleVersion":"4.5.10","env":"produce","listenAddress":"0.0.0.0","listenPort":8888}}
+2021-01-21 15:24:37 : {"level":"INFO","data":"Acme is start!"}

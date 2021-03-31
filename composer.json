@@ -1,0 +1,21 @@
+{
+
+    "name":"zhixukeji/acme",
+    "description":"faster Php8 Framework!",
+    "autoload": {
+        "psr-4": {
+          "Acme\\": "Acme/",
+          "App\\": "App/"
+        }
+    },
+    "require":{
+        "php": ">=8.0",
+        "swoole/ide-helper": "^4.5",
+        "ext-json": "*",
+        "ext-redis": "*",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*",
+        "ext-bcmath": "*",
+        "ext-mbstring": "*"
+    }
+}

@@ -1,4 +1,4 @@
-# Acme引擎 - 自己开发的PHP引擎
+# Acme引擎 - 自研的PHP引擎
 
 <font color="red" size="5">引擎基于php8和swoole（>=4.5.10）</font>
 ---
